@@ -1,0 +1,42 @@
+[
+
+
+   {
+     "company_name": "A + Communications and Security",
+     "company_location": "Des Moines, Iowa, United States",
+     "company_website": " https://www.adapt.io/company/a--communications-and-security",
+     "company_webdomain": "adapt.io",
+     "company_industry": "Telecommunications",
+     "company_employee_size": "25-100",
+     "company_revenue": "$0-1M",
+     "contact_details":[
+         {
+             "contact_name": "Scott Moon",
+             "contact_jobtitle": "Installation/Service Manager",
+             "contact_email_domain": "adapt.io",
+             "contact_department": "Support"
+             
+             
+         },
+         {
+             
+             "contact_name": "Linda Wheeler",
+             "contact_jobtitle": "Support Service Supervisor",
+             "contact_email_domain": "adapt.io",
+             "contact_department": "Support"
+             
+             
+         }
+         
+     ]
+     
+
+
+   }
+
+   
+  
+   
+
+
+]
